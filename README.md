@@ -1,6 +1,5 @@
 # Amazon Sales Dashboard 
 
-## Project Overview
 Developed an interactive **Amazon Global Sales Dashboard** using **Power BI** to analyze year-wise sales performance, market segmentation, and product profitability. This project provides actionable insights for business decisions.
 
 
