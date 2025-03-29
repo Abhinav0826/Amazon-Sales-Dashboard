@@ -14,16 +14,15 @@ Developed an interactive **Amazon Global Sales Dashboard** using **Power BI** to
 - **Geographical Insights:** Average sales by region (world map visualization)
 
 
-## **Visualizations:**
-- **Pie Charts:** Sales by segment and market
-- **Bar Charts:** Top and bottom products by profit
-- **World Map:** Geographical sales insights
-
-
 ## **Screenshot:**
 
 ![PowerBI](https://github.com/user-attachments/assets/4284f9f9-44e7-4ef5-b4d4-c9ff147eee05)
 
+
+## **Visualizations:**
+- **Pie Charts:** Sales by segment and market
+- **Bar Charts:** Top and bottom products by profit
+- **World Map:** Geographical sales insights
 
 
 ## **Tools & Technologies:**
